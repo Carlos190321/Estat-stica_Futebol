@@ -1,2 +1,2 @@
-# Estat-stica_Futebol
+# Estatística_Futebol
 Projeto 
